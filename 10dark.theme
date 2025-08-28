@@ -2,7 +2,7 @@
 
 [Theme]
 ; Windows - IDS_THEME_DISPLAYNAME_AERO
-DisplayName=Windows (Dark)
+DisplayName=10Dark
 SetLogonBackground=0
 
 ; Computer - SHIDI_SERVER
@@ -42,7 +42,7 @@ DefaultValue=Windows Default
 DefaultValue.MUI=@main.cpl,-1020
 
 [Control Panel\Desktop]
-Wallpaper=%SystemRoot%\web\wallpaper\Windows\img0.jpg
+Wallpaper=%ResourceDir%\Themes\10dark\Wallpaper\img0_4k.jpg
 TileWallpaper=0
 WallpaperStyle=10
 Pattern=
